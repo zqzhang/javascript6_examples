@@ -1,3 +1,5 @@
+## README from David Flanagan
+
 These are examples from the book JavaScript: The Definitive Guide, 6th Edition.
 
 See the "O'Reilly Policy on Re-Use of Code Examples from Books"
@@ -12,3 +14,13 @@ documentation of your program, with a comment like the following:
 Please note that the examples are not production code and have not been
 carefully testing. They are provided "as-is" and come with no warranty
 of any kind.
+
+## README from Zhiqiang Zhang
+
+These examples, modifications and notes are used for self-study purpose ONLY.
+Making them online as GitHub pages is to easily run the examples on browsers.
+
+Please refer to the above README from David Flanagan on re-use of the code
+examples and copyright. You don't need my permission to run the examples as
+
+https://zqzhang.github.io/javascript6_examples/index.html
